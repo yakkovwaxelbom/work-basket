@@ -1,6 +1,6 @@
 import pygame
 from settings import settings
-import bullet
+import bullet as bullet
 
 
 class Player(pygame.sprite.Sprite):
