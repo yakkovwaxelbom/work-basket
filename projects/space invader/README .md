@@ -9,7 +9,6 @@ This project is a clone of the classic "Space Invaders" game, developed using Py
 
 ![Game start](assets/graphics/game_start.png) 
 ![Game play](assets/graphics/game_play.png) 
-![Game vin](assets/graphics/game_vin.png)
 ![Game over](assets/graphics/game_over.png)  
 
 ### Directory Structure
