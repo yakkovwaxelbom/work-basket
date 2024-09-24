@@ -22,14 +22,16 @@ Welcome to my project workspace! This repository serves as a central hub for all
 
 ![Space Invaders](https://github.com/yakkovwaxelbom/work-basket/blob/main/projects/space%20invader/assets/graphics/game_play.png)
 
-### 🌐 Project: [Second Project Name]
-**Description:** A web development project, such as a user management system built with React and Next.js.
+### 🏢 Project: Elevator Management System
+**Description:** An interactive simulation of an elevator management system in multiple buildings. This project was created to explore the dynamics of real-time control, user interaction, and efficient elevator movement management. The system includes visual and audio feedback to enhance the user experience.
 
-**Technologies:** React, Next.js, Memberstack.
+**Technologies:** Python, Pygame.
 
-**Status:** In Development / Completed / On Hold.
+**Status:** In Development.
 
-**Notes:** A project created as part of a course or workshop.
+**Notes:** This project involved learning about event-driven programming, handling simultaneous user inputs, and optimizing movements based on requests.
+
+![Elevator Management](https://github.com/yakkovwaxelbom/work-basket/blob/main/public/play.png)
 
 ### 🔒 Project: [Third Project Name]
 **Description:** A cybersecurity project focused on vulnerability analysis using PHP.
