@@ -45,7 +45,7 @@ Welcome to my project workspace! This repository serves as a central hub for all
 - Optimized object creation and memory management.
 - Developed a graphical user interface (GUI) for easy user interaction and visualization.
 
-![Maze Solver](https://github.com/yakkovwaxelbom/work-basket/blob/main/projects/maze_solver/assets/graphics/maze_solver.png)
+![Maze solution](https://github.com/yakkovwaxelbom/work-basket/blob/main/projects/naze-solver/public/Maze%20solution.png)
 
 ## 🛠️ Tools & Technologies
 The projects in this workspace are developed using a variety of tools and platforms:
