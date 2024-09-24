@@ -5,7 +5,7 @@ Welcome to my project workspace! This repository serves as a central hub for all
 ## 📁 Workspace Content
 **Project 1:** A clone of the classic "Space Invaders" game, developed as my first project using Python and Pygame. This project focuses on game mechanics, logic, and interactive graphics to provide an engaging gaming experience.
 
-**Project 2:** A brief description of the second project, including key features and challenges faced.
+**Project 2:** An interactive **Elevator Management System**, demonstrating real-time control and movement of elevators in various buildings. Built using Python and Pygame, this project visualizes efficient handling of elevator operations and user interactions.
 
 **Project 3:** An overview of another project involving experimentation with new technologies.
 
