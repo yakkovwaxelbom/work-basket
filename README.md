@@ -16,7 +16,7 @@ Welcome to my project workspace! This repository serves as a central hub for all
 
 **Technologies:** Python, Pygame.
 
-**Status:** On Hold.
+**Status:** Completed.
 
 **Notes:** Learned about implementing collision detection, managing game states, and handling user input efficiently.
 
