@@ -20,7 +20,7 @@ Welcome to my project workspace! This repository serves as a central hub for all
 
 **Notes:** Learned about implementing collision detection, managing game states, and handling user input efficiently.
 
-![Space Invaders] (https://github.com/yakkovwaxelbom/work-basket/blob/main/projects/space%20invader/assets/graphics/game_play.png).
+![Space Invaders](https://github.com/yakkovwaxelbom/work-basket/blob/main/projects/space%20invader/assets/graphics/game_play.png)
 
 ### 🌐 Project: [Second Project Name]
 **Description:** A web development project, such as a user management system built with React and Next.js.
