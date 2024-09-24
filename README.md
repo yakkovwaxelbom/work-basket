@@ -5,9 +5,9 @@ Welcome to my project workspace! This repository serves as a central hub for all
 ## 📁 Workspace Content
 **Project 1:** A clone of the classic "Space Invaders" game, developed as my first project using Python and Pygame. This project focuses on game mechanics, logic, and interactive graphics to provide an engaging gaming experience.
 
-**Project 2:** A brief description of the second project, including key features and challenges faced.
+**Project 2:** An interactive **Elevator Management System**, demonstrating real-time control and movement of elevators in various buildings. Built using Python and Pygame, this project visualizes efficient handling of elevator operations and user interactions.
 
-**Project 3:** An overview of another project involving experimentation with new technologies.
+**Project 3:** An interactive Maze Solver tool, implementing Dijkstra's algorithm to find the shortest path in a maze. This project explores algorithm optimization, object creation on-demand, and provides a graphical user interface (GUI) using Tkinter.
 
 ## 🚀 Main Projects
 
@@ -22,23 +22,30 @@ Welcome to my project workspace! This repository serves as a central hub for all
 
 ![Space Invaders](https://github.com/yakkovwaxelbom/work-basket/blob/main/projects/space%20invader/assets/graphics/game_play.png)
 
-### 🌐 Project: [Second Project Name]
-**Description:** A web development project, such as a user management system built with React and Next.js.
+### 🏢 Project: Elevator Management System
+**Description:** An interactive simulation of an elevator management system in multiple buildings. This project was created to explore the dynamics of real-time control, user interaction, and efficient elevator movement management. The system includes visual and audio feedback to enhance the user experience.
 
-**Technologies:** React, Next.js, Memberstack.
+**Technologies:** Python, Pygame.
 
-**Status:** In Development / Completed / On Hold.
+**Status:** Completed.
 
-**Notes:** A project created as part of a course or workshop.
+**Notes:** This project involved learning about event-driven programming, handling simultaneous user inputs, and optimizing movements based on requests.
 
-### 🔒 Project: [Third Project Name]
-**Description:** A cybersecurity project focused on vulnerability analysis using PHP.
+![Elevator Management](https://github.com/yakkovwaxelbom/work-basket/blob/main/public/play.png)
 
-**Technologies:** PHP, SQL, Web Security.
+### 🧩 Project: Maze Solver
+**Description:** An interactive Maze Solver tool that uses Dijkstra's algorithm to find the shortest path in a maze. This project demonstrates advanced algorithmic techniques, optimization of object creation on-demand, and includes a graphical user interface (GUI) built with Tkinter for user interaction.
 
-**Status:** In Development / Completed / On Hold.
+**Technologies:** Python, Tkinter, OpenCV, PIL.
 
-**Notes:** A learning project involving penetration testing and security issue detection.
+**Status:** Completed.
+
+**Notes:** 
+- Implemented Dijkstra's algorithm for shortest pathfinding.
+- Optimized object creation and memory management.
+- Developed a graphical user interface (GUI) for easy user interaction and visualization.
+
+![Maze Solver](https://github.com/yakkovwaxelbom/work-basket/blob/main/projects/maze_solver/assets/graphics/maze_solver.png)
 
 ## 🛠️ Tools & Technologies
 The projects in this workspace are developed using a variety of tools and platforms:
