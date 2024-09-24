@@ -27,11 +27,11 @@ Welcome to my project workspace! This repository serves as a central hub for all
 
 **Technologies:** Python, Pygame.
 
-**Status:** In Development.
+**Status:** Completed.
 
 **Notes:** This project involved learning about event-driven programming, handling simultaneous user inputs, and optimizing movements based on requests.
 
-![Elevator Management](https://github.com/yakkovwaxelbom/work-basket/blob/main/public/play.png)
+![Elevator Management](https://github.com/yakkovwaxelbom/work-basket/blob/main/projects/elevator-management-system/public/play.png)
 
 ### 🔒 Project: [Third Project Name]
 **Description:** A cybersecurity project focused on vulnerability analysis using PHP.
