@@ -40,7 +40,7 @@ project_root/
 3. **Run Solver**: Click the "Run" button to start the solver, which will display the shortest path found.
 4. **Refresh**: Click the "Refresh" button to reset the maze and select new points.
 
-![Image Description](public/Maze solution.png)
+![Space Invaders](https://github.com/yakkovwaxelbom/work-basket/blob/main/projects/space%20invader/assets/graphics/game_play.png)
 
 
 ## Future Improvements
