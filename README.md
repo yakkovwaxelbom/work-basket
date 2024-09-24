@@ -31,7 +31,7 @@ Welcome to my project workspace! This repository serves as a central hub for all
 
 **Notes:** This project involved learning about event-driven programming, handling simultaneous user inputs, and optimizing movements based on requests.
 
-![Elevator Management](https://github.com/yakkovwaxelbom/work-basket/blob/main/public/play.png)
+![Elevator Management](https://github.com/yakkovwaxelbom/work-basket/blob/main/projects/elevator-management-system/public/play.png)
 
 ### 🧩 Project: Maze Solver
 **Description:** An interactive Maze Solver tool that uses Dijkstra's algorithm to find the shortest path in a maze. This project demonstrates advanced algorithmic techniques, optimization of object creation on-demand, and includes a graphical user interface (GUI) built with Tkinter for user interaction.
