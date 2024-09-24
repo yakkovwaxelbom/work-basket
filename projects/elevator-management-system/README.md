@@ -27,22 +27,17 @@ project_root/
 │   ├── Elevator.py         # Elevator class logic
 │   ├── Floor.py            # Floor class logic
 │   ├── Building.py         # Building class managing multiple floors and elevators
-├── assets/                 # Contains all graphical and sound assets
-│   ├── graphics/           # Images used in the simulation
-│   │   ├── elevator.png
-│   │   ├── floor.jpg
-│   └── sounds/             # Sound effects used in the simulation
-│       ├── ding.mp3
+├── public/                 # Contains all graphical and sound assets
+│   ├── elevator.png
+│   ├── floor.jpg
+│    ├── ding.mp3
 ```
 
 ## Screenshots
 
 
-### Game Play
+### Elevator Play
 ![Game Play](public/play.png)
-
-### Elevator Movement
-![Elevator Movement](assets/graphics/elevator_movement.png)
 
 ## Future Improvements
 - Add more customizable building layouts.
