@@ -153,4 +153,3 @@ class SortUtils:
         return arr
 
 
-print(SortUtils.heapsort([2, 1, 4]))
